@@ -1,0 +1,14 @@
+[
+  {
+    "id": "d1",
+    "text": "TinyLlama is a small language model optimized for fast inference on modest hardware.",
+    "timestamp": "2025-08-26T11:30:39.388Z",
+    "embedding": []
+  },
+  {
+    "id": "d2",
+    "text": "React Native builds mobile apps using JavaScript and native widgets for iOS and Android.",
+    "timestamp": "2025-08-26T11:30:39.389Z",
+    "embedding": []
+  }
+]
